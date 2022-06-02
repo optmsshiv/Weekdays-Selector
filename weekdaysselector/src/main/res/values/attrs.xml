@@ -17,5 +17,6 @@
         <attr name="border_thickness" format="integer" />
         <attr name="border_highlight_color" format="color" />
         <attr name="border_highlight_thickness" format="integer" />
+        <attr name="background" format="shape" />
     </declare-styleable>
 </resources>
